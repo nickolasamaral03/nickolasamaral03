@@ -5,7 +5,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolasamaral03&layout=compact)](https://github.com/nickolasamaral03/github-readme-stats) 
 
- 
+<div align="center">
+  <a href="https://github.com/wallacelops">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickolasamaral03&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickolasamaral03&layout=compact&langs_count=7&theme=gotham"/>
+</div> 
  
  
  
