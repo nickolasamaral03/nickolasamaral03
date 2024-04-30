@@ -1,6 +1,6 @@
 # Olá Todo Mundo! Sou Nickolas Amaral
 
- ## Atualmente estudo linguagens front-end como JavaScript, HTML, CSS, além de React, Git e GitHub!
+ ### Atualmente estudo linguagens front-end como JavaScript, HTML, CSS, além de React, Git e GitHub!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolasamaral03&layout=compact)](https://github.com/nickolasamaral03/github-readme-stats) 
